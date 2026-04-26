@@ -88,4 +88,8 @@ https://quinta-azenha-react.netlify.app/
 
 ---
 
-*UC00617 - Projeto Final React + API | Gonçalo Chora | ATEC TPSI-CAS-0725 | 2026*
+<div align="center">
+
+**Made with ❤️ by GCh85 for UC00617**
+
+*Projeto Final React + API | ATEC TPSI-CAS-0725 | 2026*
